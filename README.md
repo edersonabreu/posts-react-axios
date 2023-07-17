@@ -1,4 +1,4 @@
-# POSTS COM REACT E AXIOS
+# PÁGINA DE POSTS COM REACT E AXIOS
 Listagem de posts utilizando a API aberta do Jsonplaceholder, onde é disponibilizada uma listagem de posts lorem ipsum via API e é possível simular CRUD. 
 
 ## Tela inicial com listagem de posts cadastrados:
